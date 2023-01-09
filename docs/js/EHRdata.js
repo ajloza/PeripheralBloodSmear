@@ -39,7 +39,7 @@ class EHRdata {
   static TransferrinSaturation = new Lab("TransferrinSaturation", 40, "%", "May 1, 2022", "15", "45");
   static TIBC = new Lab("TIBC", 269, "ug/dL", "May 1, 2022", "204", "475");
   static hemoglobinElectrophoresis = new Lab("hemoglobinElectrophoresis", null, null, null, null, null);
-  static ReticulocytesAbs = new Lab("ReticulocytesAbs", 2.0, "K/cmm", "May 1, 2022", "20", "80");
+  static ReticulocytesAbs = new Lab("ReticulocytesAbs", 40.0, "K/cmm", "May 1, 2022", "20", "80");
   static ImmatureReticulocytes = new Lab("ImmatureReticulocytes", null, null, null, null, null);
   static ReticulocyteHemoglobin = new Lab("ReticulocyteHemoglobin", null, null, null, null, null);
   static immaturePlateletFraction = new Lab("immaturePlateletFraction", 10, "", "May 1, 2022", "5", "15");
